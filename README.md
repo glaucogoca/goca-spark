@@ -17,7 +17,7 @@ E acesse a URL no seu navegador.
 <br><br>
 Para mais conteúdos:
 
-Me siga no meu instagram My favorite search engine is [@Goca.Codificares](https://www.instagram.com/goca.codificadores/).
+Me siga no meu instagram [@Goca.Codificares](https://www.instagram.com/goca.codificadores/).
 
 E me siga também no meu canal do youtube [Youtube-Goca.Codificares](https://www.youtube.com/channel/UCHWt0MCS5k6omU5rHAiAfyg).
 .
